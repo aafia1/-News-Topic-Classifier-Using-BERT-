@@ -1,6 +1,7 @@
 # 📰 News Topic Classifier (AG News + BERT)
 
 ## 📖 Description  
+**✨ Developed as part of AI/ML Engineering Internship – DevelopersHub Corporation**
 This project is a **News Topic Classifier** built using **BERT** and the **AG News dataset**.  
 It classifies news articles into **four categories**:  
 - 🌍 World  
@@ -16,7 +17,7 @@ The pipeline covers **data preprocessing, tokenization, model training, evaluati
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/news_topic_classifier.git
+git clone https://github.com/aafia1/news_topic_classifier.git
 cd news_topic_classifier
 ```
 
